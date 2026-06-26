@@ -1,6 +1,7 @@
 # 🧠 Deepfake Detection App
 
 This project is a full-stack application that detects deepfakes in images using a deep learning model (EfficientNet). The **frontend** is built with **React**, and the **backend** is powered by **FastAPI** with a trained model.
+
 ---
 
 ## 📂 Project Structure
