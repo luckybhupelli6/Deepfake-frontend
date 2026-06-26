@@ -1,33 +1,6 @@
 # 🧠 Deepfake Detection App
 
 This project is a full-stack application that detects deepfakes in images using a deep learning model (EfficientNet). The **frontend** is built with **React**, and the **backend** is powered by **FastAPI** with a trained model.
-
-
-
----
-
-## 👨‍💻 Contributors
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/sumiitttt11">
-        <img src="https://github.com/sumiitttt11.png" width="80px;" alt="Sumit Kumawat"/><br />
-        <sub><b>Sumit Kumawat</b></sub>
-      </a>
-      <br />
-      💻 Contributor
-    </td>
-    <td align="center">
-      <a href="https://github.com/luckybhupelli6">
-        <img src="https://github.com/luckybhupelli6.png" width="80px;" alt="Lucky Bhupelli"/><br />
-        <sub><b>Lucky Bhupelli</b></sub>
-      </a>
-      <br />
-      💻 Contributor
-    </td>
-  </tr>
-</table>
 ---
 
 ## 📂 Project Structure
@@ -77,3 +50,25 @@ https://github.com/sumiitttt11/deepfake-backend
 - Results are displayed.
 
 ---
+## 👨‍💻 Contributors
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/sumiitttt11">
+        <img src="https://github.com/sumiitttt11.png" width="80px;" alt="Sumit Kumawat"/><br />
+        <sub><b>Sumit Kumawat</b></sub>
+      </a>
+      <br />
+      💻 Contributor
+    </td>
+    <td align="center">
+      <a href="https://github.com/luckybhupelli6">
+        <img src="https://github.com/luckybhupelli6.png" width="80px;" alt="Lucky Bhupelli"/><br />
+        <sub><b>Lucky Bhupelli</b></sub>
+      </a>
+      <br />
+      💻 Contributor
+    </td>
+  </tr>
+</table>
